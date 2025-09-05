@@ -17,13 +17,6 @@ A web application that refines, summarizes, paraphrases, or rewrites text using 
 
 ---
 
-## Project Structure
-grammarly/
-├── backend/ # Node.js + TypeScript backend
-├── frontend/ # React frontend
-├── docker-compose.yml
-└── README.md
-
 
 ## Prerequisites
 
